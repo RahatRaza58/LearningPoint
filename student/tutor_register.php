@@ -100,12 +100,12 @@ if ($_SERVER["REQUEST_METHOD"] === "POST") {
 
       <div class="profile">
          <img src="images/pic-1.jpg" class="image" alt="">
-         <h3 class="name">shaikh anas</h3>
-         <p class="role">studen</p>
+         <h3 class="name">MD RAHAT</h3>
+         <p class="role">Student</p>
          <a href="profile.html" class="btn">view profile</a>
          <div class="flex-btn">
-            <a href="login.html" class="option-btn">login</a>
-            <a href="register.html" class="option-btn">register</a>
+            <a href="index.php" class="option-btn">login</a>
+            <a href="registerformStudent.php" class="option-btn">register</a>
          </div>
       </div>
 
@@ -121,8 +121,8 @@ if ($_SERVER["REQUEST_METHOD"] === "POST") {
 
    <div class="profile">
       <img src="images/pic-1.jpg" class="image" alt="">
-      <h3 class="name">shaikh anas</h3>
-      <p class="role">studen</p>
+      <h3 class="name">MD RAHAT</h3>
+      <p class="role">Student</p>
       <a href="profile.html" class="btn">view profile</a>
    </div>
 

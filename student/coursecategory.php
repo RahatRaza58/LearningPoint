@@ -65,7 +65,7 @@
    </div>
 
    <nav class="navbar">
-      <a href="home.php"><i class="fas fa-home"></i><span>Home</span></a>
+      <a href="../home.php"><i class="fas fa-home"></i><span>Home</span></a>
       <a href="./aboutus.php"><i class="fas fa-question"></i><span>About</span></a>
       <a href="course.php"><i class="fas fa-graduation-cap"></i><span>Courses</span></a>
       <a href="teachers.php"><i class="fas fa-chalkboard-user"></i><span>Teachers</span></a>

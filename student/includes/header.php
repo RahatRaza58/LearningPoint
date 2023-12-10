@@ -34,7 +34,7 @@ error_reporting(0);
             <div class="navbar-header">
 
                 <a class="navbar-brand" href="#" style="color:white; font-size:26px; line-height:28px; display: flex; align-items: left;">
-    <img src="assets/img/logo.png" alt="logo" width="120" height="120" style="margin-right: 4px;">
+    <img src="assets/img/logoLP.png" alt="logo" width="120" height="120" style="margin-right: 4px;">
     <b>Learning Point</b>
     <small style="display: block; font-style: italic; font-size: 16px; color:white;position: absolute; bottom: 40px; right:900px;">Discover Your Next Skill</small>
 </a>

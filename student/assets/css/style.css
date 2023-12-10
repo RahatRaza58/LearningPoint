@@ -58,8 +58,8 @@ background-color:hsl(198, 81%, 4%);
    HEADER SECTION STYLES
  ============================================================ */
 header {
-    background-color: #43b671;
-    color: #0a0a0a;
+    background-color: #44ebc6;
+    color: rgb(0, 0, 0);
     padding: 10px;
     text-align: right;
 }

@@ -49,7 +49,7 @@ students worldwide.</p>
 		}
 
 		header {
-			background-color: #15efb1;
+			background-color: #119c7e;
 			color: #fff;
 			font-size: 36px;
 			padding: 20px;
@@ -63,7 +63,7 @@ students worldwide.</p>
 		}
 
 		footer {
-			background-color: #15efb1 ;
+			background-color: #119c7e ;
 			color: #fff;
 			padding: 20px;
 			text-align: center;

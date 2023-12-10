@@ -35,12 +35,12 @@
 
       <div class="profile">
          <img src="assets/img/pic-1.jpg" class="image" alt="">
-         <h3 class="name">shaikh anas</h3>
-         <p class="role">studen</p>
+         <h3 class="name">MD RAHAT</h3>
+         <p class="role">Student</p>
          <a href="profile.html" class="btn">view profile</a>
          <div class="flex-btn">
-            <a href="login.html" class="option-btn">login</a>
-            <a href="register.html" class="option-btn">register</a>
+            <a href="index.php" class="option-btn">login</a>
+            <a href="registerformStudent.php" class="option-btn">register</a>
          </div>
       </div>
 
@@ -56,17 +56,17 @@
 
    <div class="profile">
       <img src="assets/img/pic-1.jpg" class="image" alt="">
-      <h3 class="name">shaikh anas</h3>
-      <p class="role">studen</p>
-      <a href="profile.html" class="btn">view profile</a>
+      <h3 class="name">MD RAHAT</h3>
+      <p class="role">Student</p>
+      <a href="teacher_profile.php" class="btn">view profile</a>
    </div>
 
    <nav class="navbar">
-      <a href="home.php"><i class="fas fa-home"></i><span>home</span></a>
-      <a href="about.html"><i class="fas fa-question"></i><span>about</span></a>
-      <a href="course.php"><i class="fas fa-graduation-cap"></i><span>courses</span></a>
+      <a href="../home.php"><i class="fas fa-home"></i><span>Home</span></a>
+      <a href="./aboutus.php"><i class="fas fa-question"></i><span>About</span></a>
+      <a href="course.php"><i class="fas fa-graduation-cap"></i><span>Courses</span></a>
       <a href="teachers.php"><i class="fas fa-chalkboard-user"></i><span>teachers</span></a>
-      <a href="contact.html"><i class="fas fa-headset"></i><span>contact us</span></a>
+      <a href="contact.html"><i class="fas fa-headset"></i><span>Contact Us</span></a>
    </nav>
 
 </div>
@@ -99,7 +99,7 @@
          <p>total playlists : <span>4</span></p>
          <p>total videos : <span>18</span></p>
          <p>total likes : <span>1208</span></p>
-         <a href="teacher_profile.html" class="inline-btn">view profile</a>
+         <a href="teacher_profile.php" class="inline-btn">view profile</a>
       </div>
 
       <div class="box">

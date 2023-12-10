@@ -35,8 +35,8 @@
 
       <div class="profile">
          <img src="assets/img/pic-1.jpg" class="image" alt="">
-         <h3 class="name">shaikh anas</h3>
-         <p class="role">studen</p>
+         <h3 class="name">MD RAHAT</h3>
+         <p class="role">Student</p>
          <a href="profile.php" class="btn">view profile</a>
          <div class="flex-btn">
             <a href="login.php" class="option-btn">login</a>
@@ -56,8 +56,8 @@
 
    <div class="profile">
       <img src="assets/img/pic-1.jpg" class="image" alt="">
-      <h3 class="name">shaikh anas</h3>
-      <p class="role">studen</p>
+      <h3 class="name">MD RAHAT</h3>
+      <p class="role">Student</p>
       <a href="profile.php" class="btn">view profile</a>
    </div>
 

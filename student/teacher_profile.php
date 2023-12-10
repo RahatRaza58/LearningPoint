@@ -35,8 +35,8 @@
 
       <div class="profile">
          <img src="assets/img/pic-1.jpg" class="image" alt="">
-         <h3 class="name">shaikh anas</h3>
-         <p class="role">studen</p>
+         <h3 class="name">MD RAHAT</h3>
+         <p class="role">Student</p>
          <a href="profile.html" class="btn">view profile</a>
          <div class="flex-btn">
             <a href="login.html" class="option-btn">login</a>
@@ -56,14 +56,14 @@
 
    <div class="profile">
       <img src="assets/img/pic-1.jpg" class="image" alt="">
-      <h3 class="name">shaikh anas</h3>
-      <p class="role">studen</p>
+      <h3 class="name">MD RAHAT</h3>
+      <p class="role">Student</p>
       <a href="profile.html" class="btn">view profile</a>
    </div>
 
    <nav class="navbar">
-      <a href="home.html"><i class="fas fa-home"></i><span>home</span></a>
-      <a href="about.html"><i class="fas fa-question"></i><span>about</span></a>
+      <a href="../home.php"><i class="fas fa-home"></i><span>home</span></a>
+      <a href="./aboutus.php"><i class="fas fa-question"></i><span>about</span></a>
       <a href="courses.html"><i class="fas fa-graduation-cap"></i><span>courses</span></a>
       <a href="teachers.php"><i class="fas fa-chalkboard-user"></i><span>teachers</span></a>
       <a href="contact.html"><i class="fas fa-headset"></i><span>contact us</span></a>
